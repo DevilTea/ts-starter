@@ -1,14 +1,8 @@
 {
-  "compilerOptions": {
-    "target": "es2018",
-    "lib": ["esnext"],
-    "module": "esnext",
-    "moduleResolution": "node",
-    "resolveJsonModule": true,
-    "strict": true,
-    "strictNullChecks": true,
-    "esModuleInterop": true,
-    "skipDefaultLibCheck": true,
-    "skipLibCheck": true
-  }
+	"references": [
+		{ "path": "./tsconfig.lib.json" },
+		{ "path": "./tsconfig.node.json" },
+		{ "path": "./tsconfig.test.json" }
+	],
+	"files": []
 }

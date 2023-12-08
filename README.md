@@ -9,19 +9,11 @@
 _description_
 
 > **Note**:
-> Replace `pkg-placeholder`, `_description_` and `antfu` globally to use this template.
-
-## Sponsors
-
-<p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/antfu/static/sponsors.svg">
-    <img src='https://cdn.jsdelivr.net/gh/antfu/static/sponsors.svg'/>
-  </a>
-</p>
+> Replace `pkg-placeholder`, `_description_` and `deviltea` globally to use this template.
 
 ## License
 
-[MIT](./LICENSE) License © 2023-PRESENT [Anthony Fu](https://github.com/antfu)
+[MIT](./LICENSE) License © 2023-PRESENT [DevilTea](https://github.com/DevilTea)
 
 
 <!-- Badges -->

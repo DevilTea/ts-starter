@@ -1,15 +1,15 @@
 // @ts-check
-import antfu from '@antfu/eslint-config'
+import deviltea from '@deviltea/eslint-config'
 
-export default antfu(
-  {
-    ignores: [
-      // eslint ignore globs here
-    ],
-  },
-  {
-    rules: {
-      // overrides
-    },
-  },
+export default deviltea(
+	{
+		ignores: [
+			// eslint ignore globs here
+		],
+	},
+	{
+		rules: {
+			// overrides
+		},
+	},
 )
